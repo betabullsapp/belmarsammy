@@ -1185,7 +1185,12 @@ h3.ghj {
 	float:left;
 	color:#fff;
 }
-
+.footer img {
+    padding-right: 57px;
+    float: right;
+    color: #fff;
+    margin-top: -15px;
+}
 }
 @media (max-width:1280px){
 .sb-search {
