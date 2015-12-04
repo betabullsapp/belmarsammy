@@ -431,6 +431,8 @@ ul.navig {
     display: block;
 	font-size: 13px;
 }
+
+
 .welcome-left a:hover{
 	background: rgba(7, 50, 162, 0.72);
 }
