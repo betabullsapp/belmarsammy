@@ -1,11 +1,11 @@
 
 @font-face {
-    font-family: 'Roboto-Regular';
-    src:url(../fonts/Roboto-Regular.ttf) format('truetype');
+    font-family: 'chalkdust';
+    src:url(../fonts/chalkdust.ttf) format('truetype');
 }
 @font-face {
-    font-family: 'Play-Regular';
-    src:url(../fonts/Play-Regular.ttf) format('truetype');
+    font-family: 'chalkdust';
+    src:url(../fonts/chalkdust.ttf) format('truetype');
 }
 html, body{
     font-size: 100%;
@@ -13,7 +13,7 @@ html, body{
 }
 body {
 	font-size: 100%;
-	font-family: 'Roboto-Regular';
+	font-family: 'chalkdust';
 }
 body a{
 	transition: 0.5s all ease;
@@ -143,7 +143,7 @@ body a:hover{
 	font-size:1.7em;
 	color:#fff;
 	margin:0;
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 }
 .head-middle h1{
 	margin:0;
@@ -303,7 +303,7 @@ ul.navig {
 	color:#fff;
 	font-size:2em;
 	margin:0;
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 }
 .banner-text {
     text-align: left;
@@ -322,7 +322,7 @@ ul.navig {
     top: 92.5%;
 }
 .down h3{
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 	padding:10px 20px;
 	margin:0;
 	background:#f94877;
@@ -397,7 +397,7 @@ ul.navig {
 	color:#0732a2;
 	font-size:2.5em;
 	margin:0;
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 }
 .welcome-top{
 	text-align:center;
@@ -429,7 +429,10 @@ ul.navig {
     background: rgba(249, 72, 119, 0.86);
     color: #fff;
     display: block;
+	font-size: 13px;
 }
+
+
 .welcome-left a:hover{
 	background: rgba(7, 50, 162, 0.72);
 }
@@ -503,7 +506,7 @@ ul.navig {
 	color:#fff;
 	font-size:2.3em;
 	margin:0;
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 }
 .mask p{
 	font-size:15px;
@@ -547,7 +550,7 @@ ul.navig {
     color: #f94877;
     font-size: 22px;
     margin: 17px 0 0 0;
-    font-family: 'Play-Regular';
+    font-family: 'chalkdust';
 }
 /*--product-end--*/
 /*--footer-starts--*/
@@ -695,7 +698,7 @@ ul.navig {
     margin: 0;
     line-height: 1.5em;
     color: #f94877;
-    font-family: 'Play-Regular';
+    font-family: 'chalkdust';
 }
 .about-right p {
     font-size: 15px;
@@ -754,7 +757,7 @@ ul.navig {
 	color: #f94877;
     font-size: 22px;
     margin: 17px 0 0 0;
-    font-family: 'Play-Regular';
+    font-family: 'chalkdust';
 }
 .team-text p{
 	font-size: 16px;
@@ -859,7 +862,7 @@ ul.navig {
 }
 .blog-btm h4,.blog-btm h2{
 	color:#0732a2;
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 	font-size:22px;
 	margin:0;
 }
@@ -894,7 +897,7 @@ p.one{
 }
 .single-bottom h4{
 	color: #0732a2;
-    font-family: 'Play-Regular';
+    font-family: 'chalkdust';
     font-size: 25px;
     margin: 0;
 }
@@ -919,7 +922,7 @@ h4.media-heading {
     font-size: 1.5em;
     color: #F94877;
     float: left;
-    font-family: 'Play-Regular';
+    font-family: 'chalkdust';
 }
 h5.reply {
 	float: right;
@@ -955,7 +958,7 @@ h5.reply a:hover {
 	font-size: 1.5em;
     color: #F94877;
 	margin:15px 0 0 0;
-    font-family: 'Play-Regular';
+    font-family: 'chalkdust';
 }
 .post-left p{
 	font-size: 16px;
@@ -982,14 +985,14 @@ h5.reply a:hover {
     color: #808080;
     outline: none;
     font-weight: 400;
-    font-family: 'Roboto-Regular';
+    font-family: 'chalkdust';
 }
 .rly-top textarea {
     resize: none;
     min-height: 180px;
     margin: 1em 0em;
     width: 100%;
-	font-family: 'Roboto-Regular';
+	font-family: 'chalkdust';
 }
 .rly-top  input[type="submit"]{
 	color: #B1AFAF;
@@ -1001,7 +1004,7 @@ h5.reply a:hover {
     border: 3px double #BEBEBE;
     background: none;
     outline: none;
-	font-family: 'Roboto-Regular';
+	font-family: 'chalkdust';
 }
 .rly-top  input[type="submit"]:hover{
 	background: #0732a2;
@@ -1029,7 +1032,7 @@ h5.reply a:hover {
 	height:350px;
 }
 .contact-left h2{
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 	margin:0;
 	font-size:2em;
 	color:#f94877;
@@ -1092,7 +1095,7 @@ h5.reply a:hover {
     color: #0732a2;
     font-size: 1.5em;
     margin:0;
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
 }
 address {
     margin: 7px 0 0 0;
@@ -1107,7 +1110,7 @@ address {
 	padding: 2em 0;
 }
 h3.ghj {
-	font-family: 'Play-Regular';
+	font-family: 'chalkdust';
     font-size: 2em;
     color: #f94877;
 	margin: 0 0 1em 0;
@@ -2630,7 +2633,7 @@ h5.reply a {
 .get-css-button a, .get-html-button a{
 	float:right;
 	text-decoration:none;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; 
+	font-family: "chalkdust"!important; 
 	font-weight:bold;
 	text-align:center;
 	color: #020F10!important;
